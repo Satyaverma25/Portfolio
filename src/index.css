@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes text {
+  0%, 100% {
+    background-position: left;
+  }
+  50% {
+    background-position: right;
+  }
+}
+
+@layer utilities {
+  .bg-300\% {
+    background-size: 300%;
+  }
+  .animate-text {
+    animation: text 5s ease infinite;
+  }
+}
