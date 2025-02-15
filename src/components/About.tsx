@@ -14,14 +14,12 @@ const education = [
     institution: "Kendriya Vidyalaya Chakradharpur",
     period: "2019 - 2021",
     description: "Completed 12th grade with focus on Physics, Chemistry, and Mathematics.",
-    grade: "Percentage: 90.8%"
   },
   {
     title: "Secondary Education",
     institution: "Kendriya Vidyalaya Chakradharpur",
     period: "2014 - 2019",
     description: "Completed secondary education with distinction.",
-    grade: "Percentage: 82%"
   }
 ];
 
