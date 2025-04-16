@@ -31,8 +31,8 @@ const skills = [
     items: [
       'Git Workflow',
       'Branch Management',
-      'Code Review',
-      'Collaboration',
+      'Kubernetes',
+      'Docker',
       'CI/CD Integration'
     ]
   },
