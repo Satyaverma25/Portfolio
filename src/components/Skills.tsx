@@ -18,7 +18,7 @@ const skills = [
     category: 'Object Oriented Programming',
     icon: <Code2 className="text-purple-500" size={24} />,
     items: [
-      'Inheritance & Polymorphism',
+      'Object Oriented Programming',
       'Encapsulation',
       'Design Patterns',
       'SOLID Principles',
