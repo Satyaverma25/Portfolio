@@ -4,13 +4,13 @@ import { motion } from 'framer-motion';
 
 const projects = [
   {
-    title: 'Project 3',
+    title: 'BoxPlay',
     description: 'A full-stack web application built with React and Node.js',
     image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80&w=500',
     github: '#',
     live: '#',
-    date: 'September 2024',
-    duration: '5 months'
+    date: 'January 2025',
+    duration: '4 months'
   },
   {
     title: 'Tic-Tac-Toe Game',
