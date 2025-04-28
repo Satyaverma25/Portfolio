@@ -30,7 +30,7 @@ const skills = [
     icon: <GitBranch className="text-blue-500" size={24} />,
     items: [
       'Git Workflow',
-      'Branch Management',
+      'Jenkins',
       'Kubernetes',
       'Docker',
       'CI/CD Integration'
